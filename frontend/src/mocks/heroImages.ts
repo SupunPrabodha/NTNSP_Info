@@ -5,14 +5,14 @@ export const mockHeroImages: HeroCarouselImageDto[] = [
     id: '1',
     title: 'Powering the Nation\'s Grid',
     description: 'Reliable transmission infrastructure for Sri Lanka',
-    imageUrl: 'https://images.unsplash.com/photo-1509390142526-ce3b8a07a33f?w=1200',
+    imageUrl: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200',
     order: 1
   },
   {
     id: '2',
     title: 'Smart Grid Technology',
     description: 'Advanced monitoring and control systems',
-    imageUrl: 'https://images.unsplash.com/photo-1581093458791-9d42e3c58a29?w=1200',
+    imageUrl: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200',
     order: 2
   },
   {
