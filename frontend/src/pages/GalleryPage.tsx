@@ -6,37 +6,37 @@ const galleryItems = [
     id: '1',
     title: 'Primary Substation Upgrade',
     location: 'Colombo North Grid',
-    imageUrl: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=600',
+    imageUrl: '/gallery/photo-1581092918056-0c4c3acd3789.jpeg',
   },
   {
     id: '2',
     title: 'Smart Meter Installation Drive',
     location: 'Western Service Area',
-    imageUrl: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600',
+    imageUrl: '/gallery/Telit_Rapid_Prototyping_Smart_Grid_Smart-Metering.jpg',
   },
   {
     id: '3',
     title: 'Field Operations Team Briefing',
     location: 'Central Regional Office',
-    imageUrl: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=600',
+    imageUrl: '/gallery/photo-1552664730-d307ca884978.jpeg',
   },
   {
     id: '4',
     title: 'Distribution Line Maintenance',
     location: 'Eastern Sector',
-    imageUrl: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600',
+    imageUrl: '/gallery/new-transmission-line.jpeg',
   },
   {
     id: '5',
     title: 'Control Center Monitoring',
     location: 'Operations Hub',
-    imageUrl: 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600',
+    imageUrl: '/gallery/photo-1454165804606-c3d57bc86b40.jpeg',
   },
   {
     id: '6',
     title: 'Community Service Connection Program',
     location: 'Southern Province',
-    imageUrl: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600',
+    imageUrl: '/gallery/photo-1600880292203-757bb62b4baf.jpeg',
   },
 ]
 
