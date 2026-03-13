@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { Menu, X, Bell, Search } from 'lucide-react';
 import { useState } from 'react';
+import { canAccessAdmin } from '../utils/rbac'
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

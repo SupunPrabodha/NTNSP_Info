@@ -5,6 +5,7 @@ import NewsPage from "./pages/NewsPage";
 import CalendarPage from "./pages/CalendarPage";
 import GalleryPage from "./pages/GalleryPage";
 import CorporatePage from "./pages/CorporatePage";
+import { canAccessAdmin } from './utils/rbac'
 
 function App() {
   return (
